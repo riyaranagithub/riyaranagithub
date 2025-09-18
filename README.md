@@ -11,8 +11,8 @@
 
 <h3 align="center">A passionate frontend developer from India</h3>
 
-<img src="https://camo.githubusercontent.com/18b7744ef108aab659f95a8cdeb0c5017be6e8bca3af6c8c29e72e0092be2024/68747470733a2f2f7265732e636c6f7564696e6172792e636f6d2f70726163746963616c6465762f696d6167652f66657463682f732d2d4f307531624e48732d2d2f635f6c696d6974253243665f6175746f253243666c5f70726f6772657373697665253243715f3636253243775f3838302f68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313430302f302532415058663567653751434e3947615f434c2e676966" align="right" width="400"/>
-- 🔭 I’m currently working on [MyWardrobe-Planner ](https://github.com/riyaranagithub/MyWardrobe-Planner)
+
+- 🔭 I’m currently working on Mental Health Journal + Ai chatbot
 
 - 📫 How to reach me **riyarana20062021@gmail.com**
 
