@@ -11,8 +11,6 @@
 <h3 align="center">A passionate frontend developer from India</h3>
 
 
-- 🔭 I’m currently working on Mental Health Journal + Ai chatbot [https://github.com/riyaranagithub/MentalHealth]
-
 - 📫 How to reach me **riyarana20062021@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
