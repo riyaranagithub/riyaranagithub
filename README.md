@@ -1,17 +1,101 @@
-## Hi there 👋
+# 👋 Hi, I'm Riya!
 
-🚀 Frontend Developer | Crafting user-friendly interfaces one pixel at a time! <br/>
-📖 Lifelong Learner | Sharing my journey through the tech universe. <br/>
-🌟 Passionate Coder | Turning ideas into reality with React & beyond. <br/>
-🎯 Problem Solver | Tackling challenges with code and creativity. <br/>
-📚 Currently Learning | Diving into Node.js and enhancing my backend skills. <br/>
-🌐 Tech Explorer | Always curious about new tools and trends! <br/>
+### 💻 Full-Stack Developer | MCA Student | AI & RAG Enthusiast
 
+I’m a passionate developer who loves **building web applications, solving problems, and exploring AI-powered technologies**.
+Currently pursuing my **MCA** and continuously improving my skills in **Full-Stack Development, Data Structures & Algorithms, and Generative AI**.
 
-<h3 align="center">A passionate frontend developer from India</h3>
+---
 
+### 🚀 What I Do
 
-- 📫 How to reach me **riyarana20062021@gmail.com**
+* 🌐 Build modern and responsive **Full-Stack Web Applications**
+* 🤖 Explore **Generative AI, RAG & LLM-based applications**
+* 🧩 Work with **REST APIs, databases & backend systems**
+* 📚 Practice **Data Structures & Algorithms**
+* 🔧 Learn, build, break, debug & build again!
+
+---
+
+### 🛠️ Tech Stack
+
+**Languages**
+
+`C` `C++` `JavaScript` `Python`
+
+**Frontend**
+
+`HTML` `CSS` `React.js` `Next.js` `Tailwind CSS`
+
+**Backend**
+
+`Node.js` `Express.js` `REST APIs`
+
+**Database**
+
+`MongoDB` `ChromaDB`
+
+**AI / ML**
+
+`LangChain` `RAG` `LLMs` `Embeddings` `Vector Databases`
+
+**Tools**
+
+`Git` `GitHub` `Postman` `VS Code`
+
+---
+
+### 💡 Featured Projects
+
+| Project            | Description                                                                                                                                         | Tech Stack             | Links                                                                                                                                       |
+| ------------------ | --------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------- | ------------------------------------------------------------------------------------------------------------------------------------------- |
+| 📧 **EmailPro**    | AI-powered email campaign manager for uploading contacts, removing duplicates, classifying emails with Gemini AI, and launching targeted campaigns. | MERN + Gemini AI       | [🌐 Live Demo](https://email-frontend-silk-zeta.vercel.app/) · [⚙️ Backend](https://github.com/riyaranagithub/email-campaign-manager-backend) . [Frontend](https://github.com/riyaranagithub/email-frontend)                                       |
+| 🤖 **PDF Chatbot** | AI-powered chatbot that lets users upload PDFs and ask questions using RAG, embeddings, and vector search.                                          | MERN + LangChain + RAG |  [🌐 Live Demo](https://pdf-chatbot-frontend-nu.vercel.app/) .  [⚙️ Backend](https://github.com/riyaranagithub/pdf-chatbot-backend) [💻 Frontend](https://github.com/riyaranagithub/pdf-chatbot-frontend) · 
+
+---
+
+### 📈 Currently Learning
+
+```text
+Full-Stack Development
+        ↓
+Advanced React & Next.js
+        ↓
+Backend & System Design
+        ↓
+Data Structures & Algorithms
+        ↓
+Generative AI & RAG
+```
+
+---
+
+### 🎯 My Goal
+
+> **Learn → Build → Improve → Repeat 🚀**
+
+I believe the best way to learn technology is by **building real-world projects and solving real problems.**
+
+---
+
+### 🌱 A Little More About Me
+
+* 🎓 MCA Student
+* 💻 Passionate about Software Development
+* 🤖 Interested in AI & Generative AI
+* 🧶 Love creative things like crochet
+* 📖 Always learning something new
+
+---
+
+### 🤝 Let's Connect
+
+I'm always interested in **learning, collaborating, and building cool projects together!**
+
+⭐ Feel free to explore my repositories and don't forget to check out my projects!
+
+**Thanks for visiting my profile! 💙**
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
